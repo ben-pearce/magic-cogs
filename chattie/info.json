@@ -1,0 +1,19 @@
+{
+  "author": [
+    "ben(ben#0009)"
+  ],
+  "install_msg": "Use [p]chattie train to get started.",
+  "name": "chattie",
+  "disabled": false,
+  "short": "Have fun conversations with your bot",
+  "description": "Have fun conversations with your bot that learns as your guild chats",
+  "tags": [
+    "funny",
+    "chat",
+    "chatbot",
+    "speak",
+    "conversation"
+  ],
+  "requirements": ["markovify", "aiofiles"],
+  "hidden": false
+}
