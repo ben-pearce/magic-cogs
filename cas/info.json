@@ -1,0 +1,17 @@
+{
+  "author": [
+    "ben(ben#0009)"
+  ],
+  "install_msg": "Use [p]cas to get started. Make sure imagemagick is installed on your system.",
+  "name": "cas",
+  "disabled": false,
+  "short": "Scale images using seam-carving (content-aware-scaling)",
+  "description": "Scale images using seam-carving (content-aware-scaling)",
+  "tags": [
+    "content-aware-scale",
+    "seam-carving",
+    "funny"
+  ],
+  "requirements": ["aiohttp", "Wand"],
+  "hidden": false
+}
